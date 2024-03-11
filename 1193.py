@@ -1,6 +1,5 @@
 bunmo = 1
 N = int(input())
-pattern = 0
 while N > bunmo:
     N -= bunmo
     bunmo += 1
