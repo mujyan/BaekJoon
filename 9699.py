@@ -1,0 +1,1 @@
+for n in range(int(input())):print(f"Case #{n+1}:",max(map(int,input().split())))
